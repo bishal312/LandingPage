@@ -20,7 +20,7 @@ const LocalBusiness = () => {
   return (
     <div className="bg-white h-auto flex-col justify-center items-center">
       <div className="w-full bg-gray-50">
-        <div className="flex flex-col md:flex-row justify-between gap-5 lg:w-6xl text-center px-5 py-5 w-full m-auto">
+        <div className="flex flex-col md:flex-row justify-between gap-5 xl:w-6xl text-center px-10 py-5 w-full m-auto">
           <div className="w-full md:w-1/2 flex flex-col justify-center text-center md:text-left gap-5">
             <h1 className="text-2xl font-bold text-center md:text-left mt-5">
               Helping a local <br />
@@ -64,10 +64,10 @@ const LocalBusiness = () => {
           </div>
         </div>
       </div>
-      <div className="flex flex-col md:flex-row justify-between gap-5 lg:w-6xl text-center px-5 py-5 w-full m-auto">
+      <div className="flex flex-col md:flex-row justify-between gap-5 xl:w-6xl text-center px-5 py-5 w-full m-auto">
         <div className="w-full flex flex-col md:flex-row px-10 justify-center items-center mt-10 ">
           <img className="w-full md:w-1/2" src={pana} alt="pana" />
-          <div className="py-5 px-5 items-center text-left md:w-full">
+          <div className="py-5 px-5 items-center text-center md:text-left md:w-full">
             <h1 className="text-2xl font-bold text-center md:text-left mt-5">
               How to design your site footer like we did
             </h1>
@@ -85,7 +85,7 @@ const LocalBusiness = () => {
         </div>
       </div>
       <div className="bg-gray-50">
-        <div className="flex flex-col md:flex-row justify-between gap-5 lg:w-6xl text-center px-5 py-5 w-full m-auto">
+        <div className="flex flex-col md:flex-row justify-between gap-5 xl:w-6xl text-center px-5 py-5 w-full m-auto">
           <div className="w-full flex flex-col md:flex-row px-10 justify-center items-center mt-10 ">
             <img className="w-full md:w-1/2" src={img9} alt="image9" />
             <div className="px-5 items-center text-center md:text-left md:w-full">
@@ -116,7 +116,7 @@ const LocalBusiness = () => {
           </div>
         </div>
       </div>
-      <div className="flex flex-col md:flex-row justify-between gap-5 lg:w-6xl text-center px-5 py-5 w-full m-auto">
+      <div className="flex flex-col md:flex-row justify-between gap-5 xl:w-6xl text-center px-5 py-5 w-full m-auto">
         <div className="w-full flex flex-col px-10 justify-center items-center mt-10 ">
           <h1 className="text-2xl font-bold">Caring is the new marketing</h1>
           <p>
@@ -128,7 +128,7 @@ const LocalBusiness = () => {
           <div className="flex flex-wrap justify-center items-center gap-7 mt-5 px-5">
             <div className="relative text-center z-30">
               <img src={img18} alt="img 18" />
-              <div className="flex flex-col absolute w-3/4 rounded-xl left-8  items-center bottom-[-10%] z-20 bg-gray-100 shadow-lg p-2">
+              <div className="flex flex-col absolute w-3/4 rounded-xl left-8  items-center bottom-[-10%] z-20 bg-gray-100 shadow-xl p-2">
                 <h1 className="text-sm">
                   Creating streamlined safeguarding Processes with OneRen
                 </h1>
@@ -139,7 +139,7 @@ const LocalBusiness = () => {
             </div>
             <div className="relative text-center z-30">
               <img src={img19} alt="img 19" />
-              <div className="flex flex-col absolute w-3/4 rounded-xl left-8  items-center bottom-[-10%] z-20 bg-gray-100 shadow-lg p-2">
+              <div className="flex flex-col absolute w-3/4 rounded-xl left-8  items-center bottom-[-10%] z-20 bg-gray-100 shadow-xl p-2">
                 <h1 className="text-sm">
                   What are you safegurding responsibilities and how can you
                   manage them?
@@ -151,7 +151,7 @@ const LocalBusiness = () => {
             </div>
             <div className="relative text-center z-30">
               <img src={img20} alt="img 20" />
-              <div className="flex flex-col absolute w-3/4 rounded-xl left-8  items-center bottom-[-10%] z-20 bg-gray-100 shadow-lg p-2">
+              <div className="flex flex-col absolute w-3/4 rounded-xl left-8  items-center bottom-[-10%] z-20 bg-gray-100 shadow-xl p-2">
                 <h1 className="text-sm">
                   Revamping the Membership Model with Triathlon Australia
                 </h1>

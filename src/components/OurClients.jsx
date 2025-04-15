@@ -14,7 +14,7 @@ import rafiki from "../assets/rafiki.svg";
 const OurClients = () => {
   return (
     <div className="bg-white h-auto flex-col justify-center m-auto items-center px-5">
-      <div className="lg:w-6xl text-center m-auto">
+      <div className="xl:w-6xl text-center m-auto">
         <h1 className="text-2xl font-bold text-center mt-5">Our Clients</h1>
         <p className="text-sm text-center mt-3">
           We have been working with some Fortune 500+ clients

@@ -4,9 +4,9 @@ import logo from "../assets/Illustrations.svg";
 const Hero = () => {
   return (
     <div className="bg-gray-100 h-[50vh] flex justify-between px-5 items-center">
-      <div className="flex justify-between px-5 items-center gap-10 w-6xl m-auto">
+      <div className="flex justify-between px-5 items-center gap-10 xl:w-6xl m-auto">
         <div>
-          <h1 className="text-black text-5xl font-bold text-left">
+          <h1 className="text-black text-3xl md:text-5xl font-bold text-left">
             Lessons and insights{" "}
             <span className="text-green-600">
               <br />
@@ -17,7 +17,7 @@ const Hero = () => {
             Where to grow your business as a photographer: site or social media?
           </p>
           <br />
-          <button className="bg-green-600 text-white px-4 py-2 rounded mt-6">
+          <button className="bg-green-600 text-white px-4 py-2 rounded mt-2">
             Register
           </button>
         </div>
