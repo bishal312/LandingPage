@@ -68,7 +68,7 @@ const Navbar = () => {
         <a href="#home">Blog</a>
         <a href="#home">Pricing</a>
         <button className="bg-green-600 text-white px-5 py-2 rounded-sm mt-2">
-          Register
+          Regeister
         </button>
       </div>
     </div>
